@@ -39,7 +39,7 @@ public class Permutation {
      */
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        String str[] = {"a","b","c","d"};
+        String str[] = {"a","a","a","d"};
         arrange(str, 0, str.length);
         System.out.println(total);
     }
